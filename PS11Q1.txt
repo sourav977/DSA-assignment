@@ -1,0 +1,12 @@
+Rajesh Sharma, 1004, CEO
+Jordan Leon, 1012, Project Manager
+Mark Antony, 1006, CTO
+Divya Rajesh, 1013, software Engg
+Anvar Mohamed, 1017, Project Manager
+Rajesh Nair, 1103, Software Engg
+Najeem Ali, 1105, PRO
+Sourav Patnaik, 1000, CEO
+Sony Rajesh, 1015, Trainee
+Arun Kumar, 1009, Trainee
+Al Najeem Fakur, 1200, CEO
+Sourav Jha, 1110, Software Engg
