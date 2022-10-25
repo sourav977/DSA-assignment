@@ -1,31 +1,26 @@
 12 Binary Tree Created with the employee details (from file PS11Q1.txt)
-------------- Search by ID ---------------
-1004 Rajesh Sharma
-1005 not found
-1006 Mark Antony
-1009 Arun Kumar
-1105 Najeem Ali
-5005 not found
+----------- Search by ID: 1004 -------------
+Rajesh Sharma 1004
+----------- Search by ID: 1005 -------------
+not found 1005
+not found 0
+----------- Search by ID: 1006 -------------
+Mark Antony 1006
+----------- Search by ID: 1009 -------------
+Arun Kumar 1009
+----------- Search by ID: 1105 -------------
+Najeem Ali 1105
+----------- Search by ID: 5005 -------------
+not found 5005
+not found 0
 ----------- Search by Name: Rajesh -------------
 Rajesh Sharma
-Divya Rajesh
-Sony Rajesh
-Rajesh Nair
------------ Search by Name: sourav -------------
-Sourav Patnaik
-Sourav Jha
------------ Search by Name: Naveen -------------
+----------- Search by Name:  -------------
 not found
------------ Search by Name: Joe -------------
 not found
------------ List Employees by Designation: Software Engg -------------
-Divya Rajesh 1013
-Rajesh Nair 1103
-Sourav Jha 1110
------------ List Employees by Designation: ASO -------------
 not found
------------ List Employees by Designation: TTY -------------
 not found
------------ List Employees by Designation: Trainee -------------
-Arun Kumar 1009
-Sony Rajesh 1015
+not found
+not found
+not found
+not found

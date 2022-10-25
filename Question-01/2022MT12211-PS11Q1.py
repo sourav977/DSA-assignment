@@ -24,7 +24,7 @@ empByName = Dictlist()
 empByDesignation = Dictlist()
 inorderTraversal = []
 count = 0
-inputFile = 'PS11Q1.txt'
+inputFile = 'inputPS11Q1.txt'
 promptFile = 'promptsPS11Q1.txt'
 outputFile = 'outputPS11Q1.txt'
 
